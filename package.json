@@ -80,7 +80,7 @@
     "@tensorflow/tfjs-converter": "^4.2.0",
     "@tensorflow/tfjs-core": "^4.2.0",
     "ahooks": "^3.7.2",
-    "antd": "^5.0.5",
+    "antd": "^5.6.3",
     "bignumber.js": "^9.1.0",
     "date-fns": "^2.29.3",
     "echarts": "^5.4.0",
