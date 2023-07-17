@@ -1599,16 +1599,16 @@
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-converter/-/tfjs-converter-4.2.0.tgz#3a51d446dc0d6194f31407345891966e0a77937f"
   integrity sha512-m+E2KJM6yGQdi8ElzWpChdD/JaqhWMCi9yK70v/ndkOaCL2q2UN48nYP2T5S15vkDvMIgzAQyZfh7hxQsMuvRQ==
 
-"@tensorflow/tfjs-core@^4.2.0":
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-core/-/tfjs-core-4.2.0.tgz#34dc455c0a00feac12015caec34a54414a404230"
-  integrity sha512-uuHkiWVC8b00ngFbHvAV7J7haRlN/9PEdeenCi0CzBjgKd7aN25wPWaoN0TSQcU+GT4FJ8mofMZ9VBYZ/s/WLg==
+"@tensorflow/tfjs-core@^4.8.0":
+  version "4.8.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-core/-/tfjs-core-4.8.0.tgz#a238007edd3643fc4bcf7ec726c1cea67a29b894"
+  integrity sha512-EkgGOAsPQSlpEdiG938c92pdC5i8GHeBVk6xO1AKKX8NiMSIruKtKqIQvX2aOkarwHy/5nhrJebAAvIL4dJlbw==
   dependencies:
     "@types/long" "^4.0.1"
     "@types/offscreencanvas" "~2019.7.0"
     "@types/seedrandom" "^2.4.28"
     "@types/webgl-ext" "0.0.30"
-    "@webgpu/types" "0.1.21"
+    "@webgpu/types" "0.1.30"
     long "4.0.0"
     node-fetch "~2.6.1"
     seedrandom "^3.0.5"
@@ -2113,10 +2113,10 @@
     "@webassemblyjs/ast" "1.11.1"
     "@xtuc/long" "4.2.2"
 
-"@webgpu/types@0.1.21":
-  version "0.1.21"
-  resolved "https://registry.yarnpkg.com/@webgpu/types/-/types-0.1.21.tgz#b181202daec30d66ccd67264de23814cfd176d3a"
-  integrity sha512-pUrWq3V5PiSGFLeLxoGqReTZmiiXwY3jRkIG5sLLKjyqNxrwm/04b4nw7LSmGWJcKk59XOM/YRTUwOzo4MMlow==
+"@webgpu/types@0.1.30":
+  version "0.1.30"
+  resolved "https://registry.yarnpkg.com/@webgpu/types/-/types-0.1.30.tgz#b6406dc4a1c1e0d469028ceb30ddffbbd2fa706c"
+  integrity sha512-9AXJSmL3MzY8ZL//JjudA//q+2kBRGhLBFpkdGksWIuxrMy81nFrCzj2Am+mbh8WoU6rXmv7cY5E3rdlyru2Qg==
 
 "@webpack-cli/configtest@^1.2.0":
   version "1.2.0"
