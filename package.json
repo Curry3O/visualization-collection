@@ -83,7 +83,7 @@
     "antd": "^5.0.5",
     "bignumber.js": "^9.1.0",
     "date-fns": "^2.29.3",
-    "echarts": "^5.4.0",
+    "echarts": "^5.5.1",
     "lodash-es": "^4.17.21",
     "pako": "^2.1.0",
     "particles.js": "^2.0.0",
